@@ -96,3 +96,4 @@ const API_BASE = 'https://your-api-domain.com/api';
 ## 相关链接
 
 - [PanSou API 项目](https://github.com/fish2018/pansou)
+- [在线演示](https://pansou.252035.xyz/api/search?kw=凡人修仙传)
